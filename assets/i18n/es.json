@@ -1,0 +1,68 @@
+{
+  "APP": {
+    "TITLE": "PDF Ease",
+    "DESCRIPTION": "Combina, divide, rota y previsualiza PDFs rápidamente",
+    "MERGE": "Combinar PDFs",
+    "MERGE_DESC": "Combina múltiples PDFs en un solo archivo",
+    "SPLIT": "Dividir PDFs",
+    "SPLIT_DESC": "Divide un PDF en páginas separadas o rangos",
+    "ROTATE": "Rotar PDFs",
+    "ROTATE_DESC": "Rota las páginas de un PDF",
+    "COMPRESS": "Comprimir PDFs",
+    "COMPRESS_DESC": "Reduce el tamaño del archivo PDF",
+    "PROTECT": "Proteger PDF",
+    "PROTECT_DESC": "Añade protección con contraseña a los PDFs",
+    "EXTRACT": "Extraer páginas",
+    "EXTRACT_DESC": "Extrae páginas a un nuevo PDF",
+    "OCR": "OCR (Reconocimiento de texto)",
+    "OCR_DESC": "Convierte PDFs escaneados a texto buscable"
+  },
+  "HOME": {
+    "TITLE": "Todas tus herramientas PDF, en un solo lugar.",
+    "TAGLINE": "Todo lo que necesitas para trabajar con PDFs, al alcance de tu mano. Combina, divide, comprime, convierte, rota, desbloquea y añade marcas de agua en solo unos clics.",
+    "FREE": "100 % gratis.",
+    "NO_SIGNUP": "No se requiere registro.",
+    "COMING_SOON": "Próximamente"
+  },
+  "UPLOAD": {
+    "DRAG_DROP": "Arrastra y suelta archivos aquí para subirlos.",
+    "LOCAL_PROCESSING": "Todo el procesamiento de PDF se realiza localmente en tu navegador. Tus archivos nunca se suben, almacenan ni se envían a ningún servidor."
+  },
+  "BUTTONS": {
+    "UPLOAD": "Subir",
+    "MERGE": "Combinar",
+    "SPLIT": "Dividir",
+    "ROTATE": "Rotar",
+    "PREVIEW": "Vista previa",
+    "BROWSE": "Explorar",
+    "LEFT": "Izquierda",
+    "RIGHT": "Derecha",
+    "DOWNLOAD": "Descargar",
+    "ADD_RANGE": "Agregar rango"
+  },
+  "SPLIT": {
+    "MERGE_RANGES": "Combinar todos los rangos en un solo archivo PDF.",
+    "SPLIT_INTO_PAGE_RANGES": "Dividir en rangos de páginas de:",
+    "PAGES_TO_EXTRACT": "Páginas a extraer",
+    "PLACEHOLDER_EXAMPLE": "ejemplo: 1,5-8",
+    "MAX_SIZE_LABEL": "Tamaño máximo por archivo:",
+    "SPLIT.RANGE": "Rango",
+    "SPLIT.PAGES": "Páginas",
+    "SPLIT.SIZE": "Tamaño",
+    "SPLIT.CUSTOM": "Personalizado",
+    "SPLIT.FIXED": "Fijo",
+    "SPLIT.ADD_RANGE": "Agregar rango",
+    "FIXED_RANGE_MESSAGE": "Las páginas seleccionadas se convertirán en archivos PDF independientes. Se creará {{param}} PDF.",
+    "SPLIT.ALL": "Extraer todas las páginas",
+    "SPLIT.SELECT": "Seleccionar páginas",
+    "PDF_CONVERT_INFO": "Las páginas seleccionadas se convertirán en archivos PDF independientes. Se creará {{param}} PDF.",
+    "SELECT_PAGES_MESSAGE": "Las páginas seleccionadas se convertirán en archivos PDF independientes. Se creará {{param}} PDF.",
+    "SIZE_MESSAGE": "El PDF se dividirá en varios archivos, cada uno con un tamaño máximo de {{param1}}{{param2}}"
+  },
+  "ROTATE": {
+    "INSTRUCTION": "Pasa el cursor sobre el PDF de abajo y aparecerá un ícono; haz clic en las flechas para rotar las páginas."
+  },
+  "Merge": {
+    "CHANGE_ORDER": "Para cambiar el orden de tus PDFs, arrastra y suelta los archivos como desees."
+  }
+}

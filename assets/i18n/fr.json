@@ -1,0 +1,68 @@
+{
+  "APP": {
+    "TITLE": "PDF Ease",
+    "DESCRIPTION": "Fusionnez, divisez, faites pivoter et prévisualisez des PDF rapidement",
+    "MERGE": "Fusionner des PDF",
+    "MERGE_DESC": "Combiner plusieurs PDF en un seul fichier",
+    "SPLIT": "Diviser des PDF",
+    "SPLIT_DESC": "Diviser un PDF en pages séparées ou plages",
+    "ROTATE": "Faire pivoter des PDF",
+    "ROTATE_DESC": "Faire pivoter les pages d'un PDF",
+    "COMPRESS": "Compresser des PDF",
+    "COMPRESS_DESC": "Réduire la taille des fichiers PDF",
+    "PROTECT": "Protéger un PDF",
+    "PROTECT_DESC": "Ajouter une protection par mot de passe aux PDF",
+    "EXTRACT": "Extraire des pages",
+    "EXTRACT_DESC": "Extraire des pages vers un nouveau PDF",
+    "OCR": "OCR (Reconnaissance de texte)",
+    "OCR_DESC": "Convertir des PDF scannés en texte consultable"
+  },
+  "HOME": {
+    "TITLE": "Tous vos outils PDF, en un seul endroit.",
+    "TAGLINE": "Tout ce dont vous avez besoin pour travailler avec des PDF — à portée de main. Fusionnez, divisez, compressez, convertissez, faites pivoter, déverrouillez et ajoutez des filigranes en quelques clics.",
+    "FREE": "100 % gratuit.",
+    "NO_SIGNUP": "Aucune inscription requise.",
+    "COMING_SOON": "Bientôt disponible"
+  },
+  "UPLOAD": {
+    "DRAG_DROP": "Glissez-déposez des fichiers ici pour les importer.",
+    "LOCAL_PROCESSING": "Tout le traitement des PDF s’effectue localement dans votre navigateur. Vos fichiers ne sont jamais téléversés, stockés ni envoyés à un serveur."
+  },
+  "BUTTONS": {
+    "UPLOAD": "Importer",
+    "MERGE": "Fusionner",
+    "SPLIT": "Diviser",
+    "ROTATE": "Faire pivoter",
+    "PREVIEW": "Aperçu",
+    "BROWSE": "Parcourir",
+    "LEFT": "Gauche",
+    "RIGHT": "Droite",
+    "DOWNLOAD": "Télécharger",
+    "ADD_RANGE": "Ajouter une plage"
+  },
+  "SPLIT": {
+    "MERGE_RANGES": "Fusionner toutes les plages en un seul fichier PDF.",
+    "SPLIT_INTO_PAGE_RANGES": "Diviser en plages de pages de :",
+    "PAGES_TO_EXTRACT": "Pages à extraire",
+    "PLACEHOLDER_EXAMPLE": "exemple : 1,5-8",
+    "MAX_SIZE_LABEL": "Taille maximale par fichier :",
+    "SPLIT.RANGE": "Plage",
+    "SPLIT.PAGES": "Pages",
+    "SPLIT.SIZE": "Taille",
+    "SPLIT.CUSTOM": "Personnalisé",
+    "SPLIT.FIXED": "Fixe",
+    "SPLIT.ADD_RANGE": "Ajouter une plage",
+    "FIXED_RANGE_MESSAGE": "Les pages sélectionnées seront converties en fichiers PDF distincts. {{param}} PDF sera créé.",
+    "SPLIT.ALL": "Extraire toutes les pages",
+    "SPLIT.SELECT": "Sélectionner des pages",
+    "PDF_CONVERT_INFO": "Les pages sélectionnées seront converties en fichiers PDF distincts. {{param}} PDF sera créé.",
+    "SELECT_PAGES_MESSAGE": "Les pages sélectionnées seront converties en fichiers PDF distincts. {{param}} PDF sera créé.",
+    "SIZE_MESSAGE": "Le PDF sera divisé en plusieurs fichiers, chacun ne dépassant pas {{param1}}{{param2}}"
+  },
+  "ROTATE": {
+    "INSTRUCTION": "Survolez le PDF ci-dessous : une icône apparaîtra. Cliquez sur les flèches pour faire pivoter les pages."
+  },
+  "Merge": {
+    "CHANGE_ORDER": "Pour modifier l’ordre de vos PDF, glissez-déposez les fichiers comme vous le souhaitez."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "APP": {
+    "TITLE": "PDF Ease",
+    "DESCRIPTION": "Merge, split, rotate and preview PDFs quickly",
+
+
+    "MERGE": "Merge PDFs",
+    "MERGE_DESC": "Combine multiple PDFs into one file",
+    "SPLIT": "Split PDFs",
+    "SPLIT_DESC": "Split a PDF into separate pages or ranges",
+    "ROTATE": "Rotate PDFs",
+    "ROTATE_DESC": "Split a PDF into separate pages or ranges",
+    "COMPRESS": "Compress PDFs",
+    "COMPRESS_DESC": "Reduce PDF file size",
+    "PROTECT": "Protect PDF",
+    "PROTECT_DESC": "Add password protection to PDFs",
+    "EXTRACT": "Extract Pages",
+    "EXTRACT_DESC": "Extract pages to a new PDF",
+    "OCR": "OCR (Text Recognition)",
+    "OCR_DESC": "Convert scanned PDFs to searchable text"
+
+  },
+  "HOME": {
+    "TITLE": "All your PDF tools, in one place.",
+    "TAGLINE": "Everything you need to work with PDFs—right at your fingertips. Merge, split, compress, convert, rotate, unlock, and watermark files in just a few clicks.",
+    "FREE": "100% free.",
+    "NO_SIGNUP": "No sign-up required.",
+    "COMING_SOON": "Coming Soon"
+  },
+  "UPLOAD": {
+    "DRAG_DROP": "Drag and drop files to here to upload.",
+    "LOCAL_PROCESSING": "All PDF processing happens locally in your browser. Your files are never uploaded, stored, or sent to any server."
+  },
+  "BUTTONS": {
+    "UPLOAD": "Upload",
+    "MERGE": "Merge",
+    "SPLIT": "Split",
+    "ROTATE": "Rotate",
+    "PREVIEW": "Preview",
+    "BROWSE": "Browse",
+    "LEFT": "Left",
+    "RIGHT": "Right",
+    "DOWNLOAD": "Download",
+    "ADD_RANGE": "Add Range"
+  },
+  "SPLIT": {
+    "MERGE_RANGES": "Merge all ranges in one PDF file.",
+    "SPLIT_INTO_PAGE_RANGES": "Split into page ranges of:",
+    "PAGES_TO_EXTRACT": "Pages to extract",
+    "PLACEHOLDER_EXAMPLE": "example: 1,5-8",
+    "MAX_SIZE_LABEL": "Maximum size per file:",
+    "SPLIT.RANGE": "Range",
+    "SPLIT.PAGES": "Pages",
+    "SPLIT.SIZE": "Size",
+    "SPLIT.CUSTOM": "Custom",
+    "SPLIT.FIXED": "Fixed",
+    "SPLIT.ADD_RANGE": "Add Range",
+    "FIXED_RANGE_MESSAGE": "Selected pages will be converted into separate PDF files. {{param}} PDF will be created.",
+    "SPLIT.ALL": "Extract all pages",
+    "SPLIT.SELECT": "Select pages",
+    "PDF_CONVERT_INFO": "Selected pages will be converted into separate PDF files. {{param}} PDF will be created.",
+    "SELECT_PAGES_MESSAGE": "Selected pages will be converted into separate PDF files. {{param}} PDF will be created.",
+    "SIZE_MESSAGE": "PDF will be split into multiple files, each not exceeding {{param1}}{{param2}}"
+  },
+  "ROTATE": {
+    "INSTRUCTION": "Mouse over the PDF below and an icon will appear; click the arrows to rotate pages."
+  },
+  "Merge": {
+    "CHANGE_ORDER": "To change the order of your PDFs, drag and drop the files as you want."
+  }
+}
